@@ -1,6 +1,6 @@
 # Kitchen Inventory App (Working Title)
 
-A full-stack web application developed as the **final capstone project** for the **Code the Dream 26.2 Manatee Cohort**.
+A full-stack web application developed as the **final capstone project** for the **Code the Dream Node 26.2 Cohort**.
 
 This project focuses on building a practical, real-world application using modern web technologies and production-style development practices.
 
@@ -64,7 +64,7 @@ This project follows an iterative workflow:
 ## 👤 Author
 
 **Michael Nichols**
-Code the Dream — 26.2 Manatee Cohort
+Code the Dream — Node 26.2 Cohort
 
 ---
 
